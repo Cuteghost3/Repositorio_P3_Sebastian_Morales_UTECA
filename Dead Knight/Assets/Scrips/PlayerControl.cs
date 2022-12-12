@@ -8,14 +8,20 @@ public class PlayerControl : MonoBehaviour
     private Vector2 Target;
     public Vector3 Offset;
     private bool mieandoDerecha = true;
+    public Animator animator;
+
 
     private void Aweke()
     {
         Target = new Vector2(-4, Offset.y);
+
+      
     }
     void Update()
     {
         Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+
+        
 
         if (Input.GetMouseButtonDown(0))
         {
@@ -24,7 +30,7 @@ public class PlayerControl : MonoBehaviour
         }
 
         transform.position = Vector2.MoveTowards(transform.position, Target, speed * Time.deltaTime);
-        
+          
     }
 
     private void Girar()

@@ -6,12 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/PantallaInicio.unity
+    guid: d07e178abee08a74e899807c2605813d
   - enabled: 1
-    path: Assets/Scenes/StarGameLv1.unity
+    path: Assets/Scenes/Level1.unity
     guid: 60af6bb1045a386498b875f9df14cd14
   - enabled: 1
-    path: Assets/Scenes/Level 2.unity
+    path: Assets/Scenes/Level2.unity
     guid: 29347eb9dddd8e243b863d1d6342433a
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 97df745054932a64f893d1cd4ae64dd8
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 55d7b7d1c2522d041bfb7418bad9fd52
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 5a98bbbdcb4b4de4ca0714a7f8868b9d
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: da776a7db18454446955c5da55dabc0b
   m_configObjects: {}
