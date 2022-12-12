@@ -1,4 +1,7 @@
 # Repositorio_P3_Sebastian_Morales_UTECA
+
+Cometí el error de poner un nombre provisional al juego, el jugable se llama Dead Knight, pero su nombre real es TOTER RITTER
+
 En este Repositorio se creara un juego point and click de mi autoría con diseños originales.
 
 El juego se llama TOTER RITTER estas dos palabras en alemán significan caballero muerto.
